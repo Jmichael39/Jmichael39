@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java, SQL, Spring, Hibernate, Docker.
 - 💞️ I’m looking to collaborate on anything I can so I can keep learning.
 - 📫 How to reach me: by now, just send me an email.
-- 😄 Pronouns: Let's not talk about this nonesense.
+- 😄 Pronouns: Let's not talk about this nonsense.
 - ⚡ Fun fact: My first Hello World was amazing!
 
 <!---
